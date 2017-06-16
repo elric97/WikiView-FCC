@@ -1,0 +1,36 @@
+.bg1
+{
+    width: 100%;
+    padding-top: 2%;
+    background-color: #48638e;
+    height: 100px;
+}
+
+#query
+{
+    width: 50%;
+}
+input
+{
+    border-radius: 5px;
+    height: 43px;
+}
+@media screen and (max-width: 430px) 
+{
+    form 
+    {
+        width: 95%;
+        margin-top: 5%;
+    }
+
+    input 
+    {
+        width: 80%;
+    }
+}
+#noval
+{
+    font-size: 30px;
+    text-align: center;
+    height: 400px;
+}
